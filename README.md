@@ -1,4 +1,2 @@
 # demoapp
 
-
-test
